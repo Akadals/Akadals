@@ -5,6 +5,7 @@
 ### C++ Developer · Networking · Game Engine
 
 **Building game networking and low-level systems with C++.**
+<br>
 **C++를 기반으로 게임 네트워크와 로우레벨 시스템을 만들고 있습니다.**
 
 <br>
@@ -24,12 +25,15 @@
 ## About Me
 
 **I'm a C++ developer interested in networking, game engines, graphics, and low-level systems.**
+<br>
 **C++를 중심으로 네트워크, 게임 엔진, 그래픽스, 로우레벨 시스템을 공부하고 있습니다.**
 
 I like figuring out how things work underneath the abstractions and building them myself.
+<br>
 추상화된 기능을 그냥 사용하는 것보다, 내부에서 어떻게 동작하는지 알아보고 직접 만들어보는 것을 좋아합니다.
 
 Currently studying Game Development at **Chungkang College of Cultural Industries, Class of 2026.**
+<br>
 현재 **청강문화산업대학교 게임콘텐츠과 26학번**으로 게임 개발을 공부하고 있습니다.
 
 ---
@@ -39,10 +43,11 @@ Currently studying Game Development at **Chungkang College of Cultural Industrie
 ### 🌐 LyntraNet
 
 **A C++ game networking library focused on performance and usability.**
+<br>
 **성능과 사용성을 함께 고려한 C++ 게임 네트워크 라이브러리입니다.**
 
 I'm building LyntraNet to make game networking easier to use without hiding the underlying network architecture.
-
+<br>
 게임 네트워크를 쉽게 사용할 수 있으면서도, 네트워크의 내부 구조를 필요 이상으로 숨기지 않는 라이브러리를 만드는 것을 목표로 개발하고 있습니다.
 
 **Working on**
@@ -64,10 +69,11 @@ I'm building LyntraNet to make game networking easier to use without hiding the 
 ### 🎮 Blockia
 
 **A multiplayer game project being developed alongside LyntraNet.**
+<br>
 **LyntraNet과 함께 개발하고 있는 멀티플레이 게임 프로젝트입니다.**
 
 I'm using the project to experiment with game networking and server architecture in an actual game.
-
+<br>
 실제 게임에 네트워크 라이브러리를 적용하면서 게임 서버와 멀티플레이 구조를 실험하고 있습니다.
 
 ---
