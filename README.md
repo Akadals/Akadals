@@ -93,47 +93,6 @@ I'm using the project to experiment with game networking and server architecture
   <img src="https://skillicons.dev/icons?i=unreal" height="45" alt="Unreal Engine">
 </p>
 
-
----
-
-## Other Projects
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### HelixRHI
-
-Graphics / RHI
-
-</td>
-
-<td width="25%" align="center">
-
-### AliuxOS
-
-OS / Systems
-
-</td>
-
-<td width="25%" align="center">
-
-### Blockia
-
-Game / Networking
-
-</td>
-
-<td width="25%" align="center">
-
-### LyntraNet
-
-Networking
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## What I'm Learning
