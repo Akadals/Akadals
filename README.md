@@ -29,7 +29,7 @@
 I like figuring out how things work underneath the abstractions and building them myself.
 추상화된 기능을 그냥 사용하는 것보다, 내부에서 어떻게 동작하는지 알아보고 직접 만들어보는 것을 좋아합니다.
 
-Currently studying Game Development at **Chungkang University of Cultural Industries, Class of 2026.**
+Currently studying Game Development at **Chungkang College of Cultural Industries, Class of 2026.**
 현재 **청강문화산업대학교 게임콘텐츠과 26학번**으로 게임 개발을 공부하고 있습니다.
 
 ---
