@@ -122,22 +122,6 @@ I'm using the project to experiment with game networking and server architecture
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Akadals">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akadals&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats">
-</a>
-
-<a href="https://github.com/Akadals">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akadals&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
-</a>
-
-</div>
-
----
-
 ## Links
 
 <div align="center">
