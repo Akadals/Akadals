@@ -150,7 +150,12 @@ I'm using the project to experiment with game networking and server architecture
   <img src="https://img.shields.io/badge/Instagram-Akadals__dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
+<a href="https://www.youtube.com/@Akadals-%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C">
+  <img src="https://img.shields.io/badge/YouTube-Akadals_게임개발-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
 </div>
+
 
 <br>
 
