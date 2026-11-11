@@ -1,68 +1,117 @@
 <div align="center">
 
-# Akadals
+<pre>
+  ##   #   #  #   #  ####     ##   #       #### 
+ #  #  ##  #   #  #  #   #   #  #  #      #     
+###### # # #  ###### #    # ###### #       ###  
+#    # #  ##  #    # #   #  #    # #           #
+#    # #   #  #    # ####   #    # ###### ##### 
+</pre>
 
-### C++ Developer · Game Networking · Engine Development
-
-**Building game networking and low-level systems with C++.**  
-C++를 기반으로 게임 네트워크와 로우레벨 시스템을 만들고 있습니다.
+<h3>C++ DEVELOPER  ·  GAME NETWORKING  ·  SYSTEMS</h3>
+<p><b>Building the layers behind multiplayer games.</b><br>
+멀티플레이 게임을 움직이는 네트워크와 시스템을 밑바닥부터 고민하고 만듭니다.</p>
 
 <a href="https://github.com/Akadals">
-  <img src="https://img.shields.io/badge/GitHub-Akadals-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+  <img src="https://img.shields.io/badge/GitHub-Akadals-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 <a href="https://github.com/Akadals/LyntraNet">
-  <img src="https://img.shields.io/badge/Featured%20Project-LyntraNet-2563EB?style=for-the-badge&logo=github" alt="LyntraNet repository">
+  <img src="https://img.shields.io/badge/FOCUS-LyntraNet-2563EB?style=for-the-badge&logo=github" alt="LyntraNet">
 </a>
+<img src="https://img.shields.io/badge/LANGUAGE-C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++20">
+
+<br>
+
+<a href="#about">ABOUT</a> ·
+<a href="#projects">PROJECTS</a> ·
+<a href="#tech-stack">TECH STACK</a> ·
+<a href="#certifications">CERTIFICATIONS</a> ·
+<a href="#contact">CONTACT</a>
 
 </div>
 
 ---
 
-## 👋 About
+## 01 / About
 
-I'm a C++ developer interested in networking, game engines, graphics, and low-level systems. I enjoy understanding how things work beneath the abstractions and building them myself.  
-네트워크와 게임 엔진, 그래픽스, 로우레벨 시스템에 관심이 있습니다. 추상화 아래에서 기능이 어떻게 동작하는지 이해하고 직접 만들어보는 것을 좋아합니다.
+안녕하세요, **Akadals**입니다.
 
-🎓 **Game Development · Chungkang College of Cultural Industries · Class of 2026**  
-청강문화산업대학교 게임콘텐츠과 26학번으로 게임 개발을 공부하고 있습니다.
+게임 개발을 공부하며 **C++ 기반 네트워크 프로그래밍, 게임 서버 구조, 엔진 및 로우레벨 시스템**에 관심을 두고 있습니다. 단순히 기능을 사용하는 것보다 내부 동작 원리를 이해하고, 작은 단위부터 직접 설계하고 구현하는 과정을 좋아합니다.
 
----
+I'm a game development student and C++ developer interested in **game networking, server architecture, engine development, and low-level systems**. I enjoy exploring how things work beneath the abstractions and building the foundations myself.
 
-## 🚧 Current Projects
-
-| Project | About | Current focus |
-| --- | --- | --- |
-| [🌐 **LyntraNet**](https://github.com/Akadals/LyntraNet) | A C++ game networking library focused on performance and usability. 성능과 사용성을 함께 고려하는 C++ 게임 네트워크 라이브러리입니다. | TCP / UDP · RUDP / KCP · QUIC · IOCP / epoll · zero-copy · concurrency · game server architecture |
-| [🎮 **Blockia**](https://github.com/Akadals/Blockia) | A multiplayer game project developed alongside LyntraNet. LyntraNet과 함께 개발하는 멀티플레이 게임 프로젝트입니다. | Applying game networking and server architecture in a game |
+> 🎓 **Chungkang College of Cultural Industries** · Game Contents · Class of 2026  
+> 청강문화산업대학교 게임콘텐츠과
 
 ---
 
-## 🧰 Tech Stack
+## 02 / Projects
+
+<div align="center">
+  <a href="https://github.com/Akadals/LyntraNet">
+    <img src="https://img.shields.io/badge/CORE%20PROJECT-LyntraNet-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="LyntraNet">
+  </a>
+</div>
+
+### 🌐 LyntraNet
+**Cross-platform C++ game networking framework**
+
+멀티플레이 게임을 위한 모듈형 C++ 네트워킹 프레임워크를 설계하고 개발하고 있습니다. 저수준 네트워크 기능부터 재사용 가능한 프레임워크, 상위 서버 프리셋까지 계층적으로 구성하는 것이 목표입니다.
+
+| Focus | Details |
+| --- | --- |
+| Language | C++20 |
+| Architecture | Core → Framework → Presets → High-Level API |
+| Current backend | Windows IOCP · In Development |
+| Planned platform | Linux epoll |
+| Protocol roadmap | TCP in development · UDP / TLS / RUDP / QUIC planned |
+| Design priorities | Async I/O · memory management · concurrency · modularity |
+
+[**Explore LyntraNet →**](https://github.com/Akadals/LyntraNet)
+
+### 🎮 Blockia
+**Multiplayer game / networking integration project**
+
+LyntraNet의 실제 게임 개발 환경 적용과 네트워크 구조 검증을 목표로 하는 프로젝트입니다.
+
+[**Explore Blockia →**](https://github.com/Akadals/Blockia)
+
+---
+
+## 03 / Tech Stack
+
+기술을 무리하게 나열하기보다, 현재 사용하는 도구와 관심을 두고 학습하는 영역을 구분했습니다.
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,cs" height="42" alt="C++, C, and C#">
-
-### Networking & Systems
 <p>
-  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square" alt="TCP/IP">
-  <img src="https://img.shields.io/badge/UDP-3776AB?style=flat-square" alt="UDP">
-  <img src="https://img.shields.io/badge/Socket%20Programming-444444?style=flat-square" alt="Socket Programming">
-  <img src="https://img.shields.io/badge/IOCP%20%2F%20epoll-6A5ACD?style=flat-square" alt="IOCP and epoll">
-  <img src="https://img.shields.io/badge/Multithreading-2E8B57?style=flat-square" alt="Multithreading">
-  <img src="https://img.shields.io/badge/Concurrency-4682B4?style=flat-square" alt="Concurrency">
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs" height="44" alt="C++, C, C#">
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=cmake,git,github,visualstudio,vscode,windows,linux" height="44" alt="CMake, Git, GitHub, Visual Studio, VS Code, Windows, Linux">
 </p>
 
 ### Game Development & Graphics
-<img src="https://skillicons.dev/icons?i=unity,unreal,vulkan" height="42" alt="Unity, Unreal Engine, and Vulkan">
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,vulkan" height="44" alt="Unity, Unreal Engine, Vulkan">
+</p>
 
-### Development Tools & Platforms
-<img src="https://skillicons.dev/icons?i=cmake,git,github,visualstudio,vscode,windows,linux" height="42" alt="CMake, Git, GitHub, Visual Studio, VS Code, Windows, and Linux">
+### Engineering Interests
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++20">
+  <img src="https://img.shields.io/badge/Game%20Networking-2563EB?style=flat-square" alt="Game Networking">
+  <img src="https://img.shields.io/badge/Socket%20Programming-444444?style=flat-square" alt="Socket Programming">
+  <img src="https://img.shields.io/badge/Async%20I%2FO-6A5ACD?style=flat-square" alt="Asynchronous I/O">
+  <img src="https://img.shields.io/badge/Concurrency-2E8B57?style=flat-square" alt="Concurrency">
+  <img src="https://img.shields.io/badge/Memory%20%26%20Performance-4682B4?style=flat-square" alt="Memory and Performance">
+</p>
 
 ---
 
-## 🏅 Certifications
+## 04 / Certifications
 
-| Certification | Issuer |
+| Qualification | Issuing organization |
 | --- | --- |
 | 정보처리기능사 · Craftsman Information Processing | 한국산업인력공단 (HRDK) |
 | 정보기기운용기능사 · Craftsman Information Equipment Operation | 한국산업인력공단 (HRDK) |
@@ -71,17 +120,29 @@ I'm a C++ developer interested in networking, game engines, graphics, and low-le
 
 ---
 
-## 📚 What I'm Learning
+## 05 / Currently Exploring
 
-| Area | Topics |
-| --- | --- |
-| **C++** | Modern C++ · memory management · multithreading · concurrency · performance |
-| **Networking** | Socket programming · IOCP / epoll · TCP / UDP · RUDP / QUIC · game server architecture |
-| **Engine & Graphics** | Rendering · RHI · engine architecture · Vulkan |
+```text
+C++ & Systems
+ ├─ Modern C++ / C++20
+ ├─ Memory management & performance
+ └─ Multithreading & concurrency
+
+Game Networking
+ ├─ Socket programming
+ ├─ TCP / UDP networking concepts
+ ├─ Windows IOCP
+ └─ Cross-platform server architecture
+
+Engine & Graphics
+ ├─ Engine architecture
+ ├─ Rendering fundamentals
+ └─ Vulkan
+```
 
 ---
 
-## 🔗 Find me
+## 06 / Contact
 
 <div align="center">
 
@@ -97,7 +158,7 @@ I'm a C++ developer interested in networking, game engines, graphics, and low-le
 
 <br><br>
 
-<sub>Building things from the lower layers up.</sub><br>
-<sub>낮은 레이어부터 직접 만들어가고 있습니다.</sub>
+<sub><b>Build from the lower layers up.</b></sub><br>
+<sub>낮은 레이어부터 차근차근 만들어갑니다.</sub>
 
 </div>
