@@ -105,7 +105,7 @@ Blockia is intended to serve as a **technical validation and reference project**
 
 ### 3D & Content Creation
 <p>
-  <img src="https://cdn.simpleicons.org/blender/F5792A" width="40" height="40" alt="Blender">
+  <img src="https://skillicons.dev/icons?i=blender" height="44" alt="Blender">
 </p>
 
 ### Areas of Interest
