@@ -96,11 +96,9 @@ Blockia is intended to serve as a **technical validation and reference project**
 
 ### Graphics APIs
 <p>
-  <img src="https://cdn.simpleicons.org/vulkan/AC162C" height="44" alt="Vulkan">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" height="40" alt="DirectX">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/opengl/5586A4" height="44" alt="OpenGL">
+  <img src="https://cdn.simpleicons.org/vulkan/AC162C" width="44" height="44" alt="Vulkan">&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" height="32" alt="DirectX">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/opengl/5586A4" width="44" height="44" alt="OpenGL">
 </p>
 
 ### 3D & Content Creation
