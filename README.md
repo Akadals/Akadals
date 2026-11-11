@@ -18,6 +18,7 @@
 <a href="#about">ABOUT</a> ·
 <a href="#projects">PROJECTS</a> ·
 <a href="#tech-stack">TECH STACK</a> ·
+<a href="#certifications">CERTIFICATIONS</a> ·
 <a href="#currently-learning">CURRENTLY LEARNING</a> ·
 <a href="#contact">CONTACT</a>
 
@@ -114,6 +115,17 @@ Blockia is intended to serve as a **technical validation and reference project**
   <img src="https://img.shields.io/badge/Concurrency-2E8B57?style=flat-square" alt="Concurrency">
   <img src="https://img.shields.io/badge/Rendering-8A2BE2?style=flat-square" alt="Rendering">
 </p>
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+| --- | --- |
+| 정보처리기능사 · Craftsman Information Processing | 한국산업인력공단 (HRDK) |
+| 정보기기운용기능사 · Craftsman Information Equipment Operation | 한국산업인력공단 (HRDK) |
+| 네트워크관리사 2급 · Network Administrator Level 2 | 한국정보통신자격협회 (ICQA) |
+| 컴퓨터활용능력 2급 · Computer Specialist in Spreadsheet & Database Level 2 | 대한상공회의소 (KCCI) |
 
 ---
 
