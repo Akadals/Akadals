@@ -4,7 +4,7 @@
 <p>✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦</p>
 
 <h3>C++ · GAME DEVELOPMENT · NETWORKING</h3>
-<p><b>게임을 만들고, 네트워크와 엔진이 동작하는 방식도 직접 살펴봅니다.</b></p>
+<p><b>Building games and exploring the systems behind them.</b></p>
 
 <a href="https://github.com/Akadals">
   <img src="https://img.shields.io/badge/GitHub-Akadals-181717?style=for-the-badge&logo=github" alt="GitHub">
@@ -18,7 +18,7 @@
 <a href="#about">ABOUT</a> ·
 <a href="#projects">PROJECTS</a> ·
 <a href="#tech-stack">TECH STACK</a> ·
-<a href="#certifications">CERTIFICATIONS</a> ·
+<a href="#currently-learning">CURRENTLY LEARNING</a> ·
 <a href="#contact">CONTACT</a>
 
 </div>
@@ -27,41 +27,52 @@
 
 ## About
 
-안녕하세요, **Akadals**입니다.
+I'm a game development student at **Chungkang College of Cultural Industries**. Most of my work and interests revolve around C++, game networking, and the systems that make multiplayer games run.
 
-청강문화산업대학교 게임콘텐츠과에서 게임 개발을 공부하고 있습니다. 주로 C++에 관심이 많고, 게임 네트워크나 서버 구조처럼 게임이 돌아가는 기반 기술도 직접 만들어 보고 있습니다.
-
-요즘은 C++ 네트워크 라이브러리 **LyntraNet**을 개발하고 있습니다. 게임 개발 외에도 엔진 구조, 그래픽스, 운영체제 같은 분야를 틈틈이 공부하고 있습니다.
-
-> 🎓 **청강문화산업대학교 · 게임콘텐츠과 · 2026학번**
+I'm currently developing **LyntraNet**, a C++ networking framework for multiplayer games. I also spend time exploring game engine architecture, graphics, and low-level programming.
 
 ---
 
 ## Projects
 
-### 🌐 [LyntraNet](https://github.com/Akadals/LyntraNet)
+### 🌐 [LyntraNet (LT Net)](https://github.com/Akadals/LyntraNet)
 
-**C++ game networking framework · 개발 중**
+**Latency-Native Transport Network**  
+*A cross-platform C++ networking framework for high-performance multiplayer games.*
 
-멀티플레이 게임에 사용할 네트워크 라이브러리입니다. 소켓과 비동기 I/O 같은 기반 기능부터 연결·패킷 처리 구조까지 직접 설계하고 구현하는 중입니다.
+LyntraNet is designed to provide networking infrastructure for a wide range of multiplayer games. It builds on platform-native I/O models such as **Windows IOCP** and **Linux epoll**, with support for transport protocols including TCP and UDP.
 
-| 항목 | 내용 |
-| --- | --- |
-| Language | C++20 |
-| 구조 | Core → Framework → Presets |
-| 현재 개발 대상 | Windows IOCP |
-| 다음 목표 | Linux epoll |
-| 프로토콜 계획 | TCP 개발 중 · UDP / TLS / RUDP / QUIC 계획 |
+The framework is intended to accommodate different genres and server models, from MMO-lite games to PVP, PVE, and co-op experiences. Beyond low-level data transport, the goal is to provide reusable networking components and server presets so developers do not have to build complex server infrastructure from scratch.
 
-[저장소 보기 →](https://github.com/Akadals/LyntraNet)
+SDKs for **Unity, Unreal Engine, and Godot**, along with server presets, Docker-based deployment, and an administration dashboard, are planned as the project develops.
+
+#### Long-Term Vision
+
+The long-term direction is to grow LyntraNet from a networking framework into a platform that supports both game development and live service operations.
+
+- **Cloud Infrastructure** — Create, deploy, scale, and manage game server instances.
+- **Developer Dashboard** — Monitor server health, traffic, connected players, logs, and operational metrics in one place.
+- **AI Agent-based LiveOps** — Apply AI agents to service monitoring, anomaly detection, operational analysis, and LiveOps automation.
+- **Cross-Engine SDKs** — Provide SDKs for Unity, Unreal Engine, Godot, and other development environments.
+- **Scalable Server Architecture** — Support projects ranging from small multiplayer games to large-scale MMO services.
+
+Ultimately, LyntraNet aims to reduce the time game developers spend building and maintaining networking infrastructure, giving them more time to focus on gameplay and content.
+
+*These are long-term goals; the framework and its planned services are still under development.*
+
+---
 
 ### 🎮 [Blockia](https://github.com/Akadals/Blockia)
 
-**게임 개발 및 네트워크 테스트 프로젝트**
+**A voxel-based MMO-lite game project and LyntraNet testbed.**
 
-LyntraNet을 실제 게임에 적용해 보고, 게임에서 필요한 네트워크 기능을 확인하기 위한 프로젝트입니다.
+Blockia is planned as a practical environment for testing LyntraNet under real gameplay conditions. Rather than relying only on isolated network benchmarks, the project is intended to exercise the framework through systems commonly found in multiplayer games.
 
-[저장소 보기 →](https://github.com/Akadals/Blockia)
+Planned features include player movement and synchronization, world data management, multiplayer interactions, chat, and communication between servers.
+
+These systems will provide scenarios for testing concurrent player handling, packet throughput and processing, server scalability, and network stability.
+
+Blockia is intended to serve as a **technical validation and reference project** for LyntraNet, helping move the framework beyond experimentation toward use in real multiplayer games.
 
 ---
 
@@ -74,15 +85,13 @@ LyntraNet을 실제 게임에 적용해 보고, 게임에서 필요한 네트워
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=cmake,git,github,visualstudio,vscode,windows,linux" height="44" alt="CMake, Git, GitHub, Visual Studio, VS Code, Windows, Linux">
+  <img src="https://skillicons.dev/icons?i=cmake,git,github,visualstudio,vscode,windows" height="44" alt="CMake, Git, GitHub, Visual Studio, VS Code, Windows">
 </p>
 
 ### Game Development, Graphics & 3D
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,vulkan,blender" height="44" alt="Unity, Unreal Engine, Vulkan, Blender">
-</p>
+<p><img src="https://cdn.simpleicons.org/unity/E6EDF3" width="40" height="40" alt="Unity"><img src="https://cdn.simpleicons.org/unrealengine/E6EDF3" width="40" height="40" alt="Unreal Engine"><img src="https://cdn.simpleicons.org/vulkan/E6EDF3" width="40" height="40" alt="Vulkan"><img src="https://cdn.simpleicons.org/blender/F5792A" width="40" height="40" alt="Blender"></p>
 
-### 관심 분야
+### Areas of Interest
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++20">
   <img src="https://img.shields.io/badge/Game%20Networking-2563EB?style=flat-square" alt="Game Networking">
@@ -94,23 +103,12 @@ LyntraNet을 실제 게임에 적용해 보고, 게임에서 필요한 네트워
 
 ---
 
-## Certifications
+## Currently Learning
 
-| 자격증 | 발급기관 |
-| --- | --- |
-| 정보처리기능사 | 한국산업인력공단 |
-| 정보기기운용기능사 | 한국산업인력공단 |
-| 네트워크관리사 2급 | 한국정보통신자격협회 |
-| 컴퓨터활용능력 2급 | 대한상공회의소 |
-
----
-
-## 요즘 공부하는 것
-
-- **C++** — Modern C++, 메모리 관리, 멀티스레딩
-- **네트워크** — 소켓 프로그래밍, TCP / UDP, Windows IOCP
-- **게임 엔진** — 엔진 구조, 렌더링 기초, Vulkan
-- **3D** — Blender를 활용한 모델링과 작업 흐름
+- **C++** — Modern C++, memory management, and multithreading
+- **Networking** — Socket programming, TCP / UDP, and Windows IOCP
+- **Game Engines** — Engine architecture, rendering fundamentals, and Vulkan
+- **3D** — Modeling and asset workflows with Blender
 
 ---
 
@@ -130,6 +128,6 @@ LyntraNet을 실제 게임에 적용해 보고, 게임에서 필요한 네트워
 
 <br><br>
 
-<sub>게임을 만들면서 필요한 기술도 하나씩 익혀가고 있습니다.</sub>
+<sub>Making games, learning the technology behind them, and building things along the way.</sub>
 
 </div>
