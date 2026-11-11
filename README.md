@@ -88,8 +88,23 @@ Blockia is intended to serve as a **technical validation and reference project**
   <img src="https://skillicons.dev/icons?i=cmake,git,github,visualstudio,vscode,windows" height="44" alt="CMake, Git, GitHub, Visual Studio, VS Code, Windows">
 </p>
 
-### Game Development, Graphics & 3D
-<p><img src="https://cdn.simpleicons.org/unity/E6EDF3" width="40" height="40" alt="Unity"><img src="https://cdn.simpleicons.org/unrealengine/E6EDF3" width="40" height="40" alt="Unreal Engine"><img src="https://cdn.simpleicons.org/vulkan/E6EDF3" width="40" height="40" alt="Vulkan"><img src="https://cdn.simpleicons.org/blender/F5792A" width="40" height="40" alt="Blender"></p>
+### Game Engines
+<p>
+  <img src="https://cdn.simpleicons.org/unity/E6EDF3" width="40" height="40" alt="Unity">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/unrealengine/E6EDF3" width="40" height="40" alt="Unreal Engine">
+</p>
+
+### Graphics APIs
+<p>
+  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" height="30" alt="Vulkan">
+  <img src="https://img.shields.io/badge/DirectX-107C10?style=for-the-badge&logo=microsoft&logoColor=white" height="30" alt="DirectX">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" height="30" alt="OpenGL">
+</p>
+
+### 3D & Content Creation
+<p>
+  <img src="https://cdn.simpleicons.org/blender/F5792A" width="40" height="40" alt="Blender">
+</p>
 
 ### Areas of Interest
 <p>
