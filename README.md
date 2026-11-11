@@ -1,12 +1,7 @@
 <div align="center">
 
-<pre>
-  ##   #   #  #   #  ####     ##   #       #### 
- #  #  ##  #   #  #  #   #   #  #  #      #     
-###### # # #  ###### #    # ###### #       ###  
-#    # #  ##  #    # #   #  #    # #           #
-#    # #   #  #    # ####   #    # ###### ##### 
-</pre>
+<h1>𝔸𝕂𝔸𝔻𝔸𝕃𝕊</h1>
+<p><b>✦ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✦</b></p>
 
 <h3>C++ DEVELOPER  ·  GAME NETWORKING  ·  SYSTEMS</h3>
 <p><b>Building the layers behind multiplayer games.</b><br>
@@ -122,23 +117,11 @@ LyntraNet의 실제 게임 개발 환경 적용과 네트워크 구조 검증을
 
 ## 05 / Currently Exploring
 
-```text
-C++ & Systems
- ├─ Modern C++ / C++20
- ├─ Memory management & performance
- └─ Multithreading & concurrency
-
-Game Networking
- ├─ Socket programming
- ├─ TCP / UDP networking concepts
- ├─ Windows IOCP
- └─ Cross-platform server architecture
-
-Engine & Graphics
- ├─ Engine architecture
- ├─ Rendering fundamentals
- └─ Vulkan
-```
+| Area | Current interests |
+| --- | --- |
+| **C++ & Systems** | Modern C++ / C++20 · Memory management · Performance · Multithreading · Concurrency |
+| **Game Networking** | Socket programming · TCP / UDP · Windows IOCP · Cross-platform server architecture |
+| **Engine & Graphics** | Engine architecture · Rendering fundamentals · Vulkan |
 
 ---
 
