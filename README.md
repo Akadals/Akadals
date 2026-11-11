@@ -39,14 +39,35 @@ I'm a C++ developer interested in networking, game engines, graphics, and low-le
 
 ## 🧰 Tech Stack
 
-**Languages**  
+### Languages
 <img src="https://skillicons.dev/icons?i=cpp,c,cs" height="42" alt="C++, C, and C#">
 
-**Tools & Platforms**  
+### Networking & Systems
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square" alt="TCP/IP">
+  <img src="https://img.shields.io/badge/UDP-3776AB?style=flat-square" alt="UDP">
+  <img src="https://img.shields.io/badge/Socket%20Programming-444444?style=flat-square" alt="Socket Programming">
+  <img src="https://img.shields.io/badge/IOCP%20%2F%20epoll-6A5ACD?style=flat-square" alt="IOCP and epoll">
+  <img src="https://img.shields.io/badge/Multithreading-2E8B57?style=flat-square" alt="Multithreading">
+  <img src="https://img.shields.io/badge/Concurrency-4682B4?style=flat-square" alt="Concurrency">
+</p>
+
+### Game Development & Graphics
+<img src="https://skillicons.dev/icons?i=unity,unreal,vulkan" height="42" alt="Unity, Unreal Engine, and Vulkan">
+
+### Development Tools & Platforms
 <img src="https://skillicons.dev/icons?i=cmake,git,github,visualstudio,vscode,windows,linux" height="42" alt="CMake, Git, GitHub, Visual Studio, VS Code, Windows, and Linux">
 
-**Game Development**  
-<img src="https://skillicons.dev/icons?i=unity,unreal" height="42" alt="Unity and Unreal Engine">
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer |
+| --- | --- |
+| 정보처리기능사 · Craftsman Information Processing | 한국산업인력공단 (HRDK) |
+| 정보기기운용기능사 · Craftsman Information Equipment Operation | 한국산업인력공단 (HRDK) |
+| 네트워크관리사 2급 · Network Administrator Level 2 | 한국정보통신자격협회 (ICQA) |
+| 컴퓨터활용능력 2급 · Computer Specialist in Spreadsheet & Database Level 2 | 대한상공회의소 (KCCI) |
 
 ---
 
